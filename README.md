@@ -6,8 +6,6 @@ Welcome to my LeetCode solutions repository! This repository contains my solutio
 
 - [Introduction](#introduction)
 - [Structure](#structure)
-- [Usage](#usage)
-- [Contributing](#contributing)
 
 ## Introduction
 
