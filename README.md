@@ -16,4 +16,4 @@ LeetCode is a platform for preparing technical coding interviews with a vast col
 The repository is structured into directories based on problem topics. Each directory contains the following:
 
 - **Solution files**: Python files containing the solution code.
-- **README.md**: (Optional) Explanation of the approach for solving the problems in that directory.
+- **README.md**: Explanation of the approach for solving the problems in that directory.
