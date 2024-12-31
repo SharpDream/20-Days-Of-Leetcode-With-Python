@@ -1,4 +1,4 @@
-<h1 style="text-align: center; color:#2E8B57">LeetCode 150</h1>
+<h1 style="text-align: center; color: #2E8B57;">LeetCode-150</h1>
 
 This repository contains my solutions to the **NeetCode 150** problems. The problems are categorized into different sections based on the topic, and the solutions are implemented in Python.
 
