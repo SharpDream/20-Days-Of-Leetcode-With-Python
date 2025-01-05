@@ -88,5 +88,5 @@ The solutions are not only a way to showcase my skills but also to reflect my pr
 - [11. Container With Most Water](./TwoPointers/11_Container_With_Most_Water.py)
 - [125. Valid Palindrome](./TwoPointers/125_Valid_Palindrome.py)
 - [15. 3Sum](./TwoPointers/15_3Sum.py)
-- [167. Two Sum II - Input Array Is Sorted](./TwoPointers/167_Two_Sum II_Input_Array_Is_Sorted.py)
+- [167. Two Sum II - Input Array Is Sorted](./TwoPointers/167_Two_Sum_II_Input_Array_Is_Sorted.py)
 - [42. Trapping Rain Water](./TwoPointers/42_Trapping_Rain_Water.py)
